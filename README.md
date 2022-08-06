@@ -1,10 +1,25 @@
-Copied (working) from blue to desktop...
+# Knapsack Variations -- CS415 Project 4
 
-Solving the knapsack problem using different methods of dynamic programming. 
+<!-- General Image Here -->
 
-Soren Richenberg, Owen Mastropietro
+## Contributors:
+- [Soren Richenberg](https://github.com/sorenrichenberg)
+- [Owen Mastropietro](https://github.com/OwenMastropietro)
 
-To run the code:
+## Instructions To Run:
+  1. `$ g++ main.cpp -o p4.out -std=c++17`
+  2. `$ ./p4.out 7`
 
-$ g++ main.cpp -o p4.out -std=c++17
-$ ./p4.out 7# Knapsack-Variations
+## Project Description:
+- TODO
+
+## TODO - Different Approaches
+- Approach Title
+    - General Information
+    - Display Main Algorithm
+    - Time and Space
+
+## Useful Resources
+- [TODO]()
+
+<!-- FootNotes -->
